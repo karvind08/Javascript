@@ -11,3 +11,7 @@ y = undefined
 console.log('This is undefined ',y)
 price = 99.65
 console.log(price)
+isstatus = true
+console.log(isstatus)
+isstatus = false
+console.log(isstatus)
