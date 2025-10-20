@@ -5,3 +5,9 @@ age = 24
 console.log('The age is',age)
 name = "Arvind"
 console.log('The name is ',name)
+x = null
+console.log('This is null ',x)
+y = undefined
+console.log('This is undefined ',y)
+price = 99.65
+console.log(price)
